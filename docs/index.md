@@ -8,8 +8,11 @@ title: Leonardo Urbiola's Resume
 __Data Scientist__
 
 Bs, Data Scientist
+
 Minor, Statistics
+
 Minor, Finance
+
 Certificate, Business Administration
 
 
