@@ -5,7 +5,13 @@ title: Leonardo Urbiola's Resume
 
 
 # Leonardo Urbiola 
-Data Scientist with a minor in Statistics
+__Data Scientist__
+
+Bs, Data Scientist
+Minor, Statistics
+Minor, Finance
+Certificate, Business Administration
+
 
 <div id="webaddress">
 <a href="leonardo.urbiola@hotmail.com">leonardo.urbiola@hotmail.com</a>
@@ -17,13 +23,10 @@ Data Scientist with a minor in Statistics
 
 ## Education
 
-`2018-2022`
-__Brigham Young University Idaho__, Rexburg, ID
-
 `Graduate 2022`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 3.6 Major Data Science
+- 3.6 Major GPA
 
 
 ## Related Experience
