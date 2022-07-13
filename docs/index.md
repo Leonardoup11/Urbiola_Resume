@@ -59,6 +59,7 @@ Analytics team in charge of critical decisions to build and allocate a new branc
 
 `January 2022 – April 2022`
 __Senior Project__, Chatbot
+
 Developed a software program that simulates human conversations
 -	Built a deep learning module with 98% of accuracy that retrieves precise answers using Python(TensorFlow)
 -	Designed and built an HTML environment to interact with a chatbot using JavaScript
