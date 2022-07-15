@@ -77,6 +77,7 @@ Developed a software program that simulates human conversations
 
 `2020-2021`
 __Programming Tutor__, Brigham Young University - Idaho
+
 Assist students to understand complex programing skills. 
 
 `2013-2015`
