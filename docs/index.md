@@ -82,7 +82,7 @@ Assist students to understand complex programing skills.
 
 `2013-2015`
 __Service Missionary__, Mexico 
-
+Served People to come unto Christ and developed leadership skills
 
 
 <!-- ### Footer
